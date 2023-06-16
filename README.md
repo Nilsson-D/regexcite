@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of regexcite is to splitting strings easier
+The goal of regexcite is to make splitting strings easier
 
 ## Installation
 
